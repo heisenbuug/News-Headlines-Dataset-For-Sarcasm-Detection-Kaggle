@@ -5,6 +5,8 @@ A very easy to understand and basic implementation to detect sarcasm in news hea
 ** Kaggle link ** : https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 I kept the implementation very basic.
+
+'''
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -20,4 +22,5 @@ Total params: 160,109
 Trainable params: 160,109
 Non-trainable params: 0
 _________________________________________________________________
+'''
 You can add more layers in between as you see fit. This will provide you with a basic skeleton to start your work on.
